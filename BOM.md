@@ -14,9 +14,8 @@
 | --- | --- | --- | --- | --- | --- |
 | [XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Main controller of the board | 1 | $4.90 | $4.90 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | Environment and temperature sensing | 1 | $9.93 | $9.93 | [Amazon](https://www.amazon.com/dp/B0BLG7R99R) |
-| [0.96 OLED](https://www.amazon.com/dp/B0GBVWBWCR) | Screen to display character | 1 | $6.00 | $6.00 | [Amazon](https://www.amazon.com/dp/B0GBVWBWCR) |
-| **Parts subtotal** | — | — | — | **$20.83** | — |
+| **Parts subtotal** | — | — | — | **$14.83** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$20.83** | — |
+| **Total** | — | — | — | **$14.83** | — |
 
-$9.17 left of the tier's funding.
+$15.17 left of the tier's funding.
